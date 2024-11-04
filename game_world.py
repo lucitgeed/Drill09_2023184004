@@ -1,6 +1,6 @@
 # wordl [0]:백그라운드 객체들
 # world[1] : foreground 객체들
-world = [[],[]]     # <- 월드리스트를 리스트 of 리스트로 변경
+world = [[],[] , []]       # <- 월드리스트를 리스트 of 리스트로 변경
 
 
 def add_object(o, depth):
